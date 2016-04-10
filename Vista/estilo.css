@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    font: .74em Tahoma, Verdana, Sans-Serif, Arial; 
+    color: #7f7f7f;
+}
+h3{
+  color:697C8E;
+}
+p { margin: 0 0 15px;
+  line-height: 1.6em; 
+
+}
+.b{
+  color:7F9BB4;
+  text-decoration:none;   
+}
+
+.a2{
+  color:7F9BB4;  
+}
+.post{ background-color: #151515;
+    border: 5px solid white;
+    padding: 20px; }
+.act{
+    display: none;
+}
+.b:hover p{
+  color:red;
+}
+.b:hover{
+ color:white; 
+}
+.ah:hover{
+ color:white;
+ display:block;
+}
+.ah:hover div.act{
+  display: block	;
+}
